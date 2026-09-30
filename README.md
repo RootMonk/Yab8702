@@ -1,6 +1,6 @@
 # Hi! I'm Yalelet Dessalegn 👋
 
-I’m a **Senior Software Engineer | Team Lead ** and creator of **[Nevr](https://github.com/nevr-ts/nevr)** — an **entity-first TypeScript framework** designed for building **scalable, maintainable applications** with **end-to-end type safety**.
+I’m a **Senior Software Engineer | Team Lead** and creator of **[Nevr](https://github.com/nevr-ts/nevr)** — an **entity-first TypeScript framework** designed for building **scalable, maintainable applications** with **end-to-end type safety**.
 
 I specialize in building modern full-stack systems, designing scalable architectures, and improving developer experience through better tools, workflows, and engineering practices.
 
