@@ -1,16 +1,17 @@
 # Hi! I'm Yalelet Dessalegn 👋
 
-I’m a **Full Stack Developer** and creator of **[Nevr](https://github.com/nevr-ts/nevr)** — an **entity-first TypeScript framework** designed for building **scalable, maintainable applications** with **end-to-end type safety**.
+I’m a **Senior Software Engineer | Team Lead ** and creator of **[Nevr](https://github.com/nevr-ts/nevr)** — an **entity-first TypeScript framework** designed for building **scalable, maintainable applications** with **end-to-end type safety**.
 
-I focus on designing systems that are easy to reason about, reducing boilerplate, and improving developer experience (DX).
+I specialize in building modern full-stack systems, designing scalable architectures, and improving developer experience through better tools, workflows, and engineering practices.
 
 ---
 
 ### What I do
-- Full Stack Development (MERN / TypeScript)  
-- Designing clean, scalable architectures  
-- Improving developer experience (DX)  
-- Mentoring and teaching web development
+- TypeScript ecosystem: React, Next.js, Node.js, NestJS, Express
+- Backend engineering with Go and modern API design
+- Scalable architecture, system design, and clean code practices
+- Developer experience improvements and engineering productivity
+- Mentoring engineers and growing technical teams
 
 ---
 
@@ -33,7 +34,8 @@ Check out the [documentation](https://nevr-ts.github.io/nevr/) for setup, usage,
 [![Next.js](https://skillicons.dev/icons?i=next)](https://skillicons.dev) &nbsp;
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) &nbsp;
 [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev) &nbsp;
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Go](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
 
 ---
 
@@ -49,12 +51,12 @@ Check out the [documentation](https://nevr-ts.github.io/nevr/) for setup, usage,
 
 ### Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yalelet-dessalegn-584417247/) &nbsp;
-[![X (formerly Twitter)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yab8702)
+[![X (formerly Twitter)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rootmonk_)
 
 ---
 
 ### Quick Facts
 - **Creator of Nevr** — entity-first TypeScript framework  
-- **Full Stack Developer @ Evangadi Tech**  
+- **Team Lead @ Orbit Tech**  
 - **Certified in AI Engineering & Cybersecurity**  
 - Building **scalable, maintainable applications** with **end-to-end type safety**
